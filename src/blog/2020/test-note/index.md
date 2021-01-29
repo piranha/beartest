@@ -1,4 +1,6 @@
-title: Test note
+# Test note
+
+----
 draft: true
 date: 2020-12-23
 ----
